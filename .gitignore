@@ -1,0 +1,5 @@
+dataset
+csv*
+src/*.ipynb
+src/*.pyc
+src/ipynb_checkpoints
